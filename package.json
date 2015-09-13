@@ -1,0 +1,12 @@
+{
+  "name": "gulp-angular",
+  "version": "0.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^1.0.7",
+    "gulp-jshint": "^1.11.2",
+    "gulp-load-plugins": "^1.0.0-rc.1"
+  }
+}
